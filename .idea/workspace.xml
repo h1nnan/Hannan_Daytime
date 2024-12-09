@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b52345-d849-43a2-acee-6b9b3c998629" name="Changes" comment="Klassen">
-      <change afterPath="$PROJECT_DIR$/src/DaytimeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utills/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utills/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utills/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utills/Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utills/Server.java" afterDir="false" />
-    </list>
+    <list default="true" id="93b52345-d849-43a2-acee-6b9b3c998629" name="Changes" comment="Klassen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +34,7 @@
     "Application.DaytimeClient.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/buttha/IdeaProjects/Hannan_Daytime/src/Utills"
@@ -108,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732865796926</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Klassen">
+      <option name="closed" value="true" />
+      <created>1732869426704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732869426704</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
